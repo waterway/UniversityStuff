@@ -5,9 +5,9 @@ SimpleProjects
 
 This is just a script.<br />
 <p>
-Compile Command: 
+Compile Command:<br/> 
   gcc -g -o main main.cpp -lGL -lGLU -lglut
-Compile Command on OSX:
+Compile Command on OSX:<br/>
   cc -framework GLUT -framework OpenGL -framework Cocoa main.c -o main
 </p>
 
