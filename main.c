@@ -7,9 +7,9 @@
  *	
  *
  * */
-#include <GL/gl.h>
-#include <GL/glu.h>
-#include <GL/glut.h>
+#include <OpenGL/gl.h>
+#include <OpenGL/glu.h>
+#include <GLUT/glut.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -532,7 +532,7 @@ void reshape( int w, int h )
 */
 void normalKeys( unsigned char key, int x, int y )
 {
-	GLfloat fraction = 0.2f;
+	GLfloat fraction = 1.0f;
     switch ( key )
     {
         case 27:																				// perfundon programin kur shtyper ESC
