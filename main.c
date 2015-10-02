@@ -3,7 +3,8 @@
  * Created by Hunahau
  *	For Fun not Profit!
  *	Feel Free for whatever :)
- *	Compile command: g++ -g -o main main.cpp -lGL -lGLU -lglut
+ *	Compile command: gcc -g -o main main.cpp -lGL -lGLU -lglut
+ *	Compile command on OSX: cc -framework GLUT -framework OpenGL -framework Cocoa glutapp.c -o glutapp
  *	
  *
  * */
