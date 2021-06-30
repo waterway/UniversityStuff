@@ -1,13 +1,3 @@
-/*
- *
- * Created by Hunahau
- *	For Fun not Profit!
- *	Feel Free for whatever :)
- *	Compile command: gcc -g -o main main.c -lGL -lGLU -lglut
- *	Compile command on OSX: cc -framework GLUT -framework OpenGL -framework Cocoa main.c -o main
- *	
- *
- * */
 #include <OpenGL/gl.h>
 #include <OpenGL/glu.h>
 #include <GLUT/glut.h>
