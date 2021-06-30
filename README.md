@@ -1,7 +1,7 @@
-SimpleProjects
+Simple example to create a simple building.
 ==============
 
-<h1>Just some Projects</h1>
+<h1>Just some stuff for github</h1>
 
 This is just a script.<br/>
 <p>
